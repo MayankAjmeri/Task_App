@@ -1,6 +1,6 @@
 # taskapp
 
-A new Flutter project.
+A UI made from flutter. This app shows your daily tasks.
 
 ## Getting Started
 
