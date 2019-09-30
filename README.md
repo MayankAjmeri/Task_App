@@ -1,4 +1,4 @@
-# taskapp
+# Taskapp
 
 A UI made from flutter. This app shows your daily tasks.
 
